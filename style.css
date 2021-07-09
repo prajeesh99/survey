@@ -1,0 +1,56 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image: url(img1.jpg);
+    background-size: cover;
+}
+form{
+    color: #fff;
+    width: 60%;
+    margin: 10px auto;
+    background-color: rgba(0, 0, 0,0.7);
+    border-radius: 8px;
+}
+form h1{
+    text-align: center;
+    padding-top: 45px;
+}
+form .details{
+    padding: 55px 55px 0px 55px;
+    font-size: 20px;
+}
+form .details input{
+    width: 274px;
+    height: 15px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1.5px solid gray;
+}
+
+.details .align{
+    margin-left: 50px;
+
+}
+.details .alignment{
+    float: right;
+    position: relative;
+    right: 49px;
+    bottom: 17px;
+}
+.details .dates #date{
+    float: right;
+    position: relative;
+    right: 309px;
+    bottom: 17px;
+}
+.details .dates{
+    position: relative;
+    bottom: 68px;
+}
+.butt{
+    align-items: center;
+    margin-left: 368px;
+    margin-bottom: 13px;
+}
